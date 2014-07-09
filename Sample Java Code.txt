@@ -2,28 +2,9 @@
 import java.text.SimpleDateFormat; 
 
 
-
-02 
 import java.util.Calendar; 
-
-
-
-03 
-  
-
-
-
-04 
 public class CalendarExample { 
 
-
-
-05 
-  
-
-
-
-06 
      public static void main(String[] args) { 
 
 
